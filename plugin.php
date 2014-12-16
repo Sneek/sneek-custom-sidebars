@@ -3,7 +3,7 @@
  * Plugin Name: Sneek Custom Sidebars
  * Plugin URI: http://sneekdigital.co.uk/plugins/wp/custom-sidebars
  * Description: A simple yet powerful custom sidebar manager
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Cristian Giordano
  * Author URI: http://sneekdigital.co.uk/
  * License: GPL2
